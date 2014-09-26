@@ -18,5 +18,5 @@ script:
   
 archive: true
 branches:
-  except:
+  only:
     - test
